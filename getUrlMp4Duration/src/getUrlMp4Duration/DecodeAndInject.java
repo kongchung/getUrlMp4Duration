@@ -86,7 +86,7 @@ public class DecodeAndInject {
 		Connection conn = null;
 		String sql = "";
 		String url = "jdbc:mysql://127.0.0.1:3307/student_test?" 
-		+ "user=root&password=jianghu&&useUnicode=true&characterEncoding=UTF8&useSSL=false";
+		+ "user=haha&password=haha&&useUnicode=true&characterEncoding=UTF8&useSSL=false";
 		try {
 //			Class.forName("com.mysql.jdbc.Driver");
 			com.mysql.jdbc.Driver driver = new com.mysql.jdbc.Driver();
